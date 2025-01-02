@@ -2,20 +2,20 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>aegisub</id>
-        <version>3.2.2.20210731</version>
+        <version>3.4.1</version>
         <title>Aegisub</title>
         <authors>Rodrigo Braz Monteiro,Niels Martin Hansen,Thomas Goyne,et al.</authors>
         <owners>Aaron Sherber</owners>
-        <licenseUrl>https://raw.githubusercontent.com/Aegisub/Aegisub/master/LICENCE</licenseUrl>
-        <projectUrl>https://github.com/Aegisub/Aegisub</projectUrl>
-        <projectSourceUrl>https://github.com/Aegisub/Aegisub</projectSourceUrl>
+        <licenseUrl>https://raw.githubusercontent.com/TypesettingTools/Aegisub/refs/heads/master/LICENCE</licenseUrl>
+        <projectUrl>https://github.com/TypesettingTools/Aegisub</projectUrl>
+        <projectSourceUrl>https://github.com/TypesettingTools/Aegisub</projectSourceUrl>
         <packageSourceUrl>https://github.com/asherber/Chocolatey.Aegisub</packageSourceUrl>
         <iconUrl>http://4.bp.blogspot.com/_sA4PIdHHFrc/TP6bhsZFvDI/AAAAAAAAAbc/i5a3aN9XeaQ/s1600/aegisub-icon-mk2.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Aegisub is a free, cross-platform open source tool for creating and modifying subtitles. Aegisub makes it quick and easy to time subtitles to audio, and features many powerful tools for styling them, including a built-in real-time video preview.</description>
         <summary>A tool for creating and modifying subtitles</summary>
         <releaseNotes />
-        <copyright>2005-2014</copyright>
+        <copyright>2005-2024</copyright>
         <tags>video subtitles admin</tags>
     </metadata>
     <files>
